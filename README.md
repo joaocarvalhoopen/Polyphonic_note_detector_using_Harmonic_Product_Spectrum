@@ -56,7 +56,7 @@ The program output for each buffer chunk in sequence <br>
 
 ![C one note Harmonic Product Spectrum](./images/PolyND_C_one_note_output.png) <br>
 
-### C major chord notes WAV
+### C major chord notes WAV - Classical guitar E2 C3 E3 G3 C4 E4
 
 The FFT Spectrum <br>
 <br>
@@ -68,7 +68,7 @@ The Harmonic Product Spectrum <br>
 
 ![C major chord Harmonic Product Spectrum](./images/PolyND_C_chord_threshold.png) <br>
 <br>
-The program output for each buffer chunk in sequence <br>
+The program output for each buffer chunk in sequence - **C major chord** classical guitar notes **E2 C3 E3 G3 C4 E4** <br>
 <br>
 
 ![C major chord Harmonic Product Spectrum](./images/PolyND_C_chord_output.png) <br>
