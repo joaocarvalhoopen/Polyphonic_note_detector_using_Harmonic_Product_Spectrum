@@ -41,6 +41,11 @@ In the code, you also can uncomment code to display graphics of the FFT spectrum
 
 ### C one single note WAV
 
+The waveform <br>
+<br>
+
+![C one note waveform](./images/PolyND_C_one_note_wave.png) <br>
+<br>
 The FFT Spectrum <br>
 <br>
 
@@ -58,6 +63,11 @@ The program output for each buffer chunk in sequence <br>
 
 ### C major chord notes WAV - Classical guitar E2 C3 E3 G3 C4 E4
 
+The waveform <br>
+<br>
+
+![C major chord waveform](./images/PolyND_C_major_chord_wave.png) <br>
+<br>
 The FFT Spectrum <br>
 <br>
 
